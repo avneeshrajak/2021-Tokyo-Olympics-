@@ -1,4 +1,4 @@
-# 2021 Tokyo Olympics Infographics
+# 2020 Tokyo Olympics Infographics
 ## Descriptive Graphs:Exploring Data set
 #### 1.Medals won by country
 #### 2.Team Participation VS Discipline
