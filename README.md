@@ -5,4 +5,4 @@
 #### 3.Gender Ratio
 #### 4.Teams and Discipline
 #### 5.Medals won by country
-##All exploratory analysis performed with libraries viz.pandas, matplotlib, seaborn.
+## All exploratory analysis performed with libraries viz.pandas, matplotlib, seaborn.
