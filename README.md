@@ -1,5 +1,5 @@
 # 2021-Tokyo-Olympics-
-Discriptive Graphs
+# Discriptive Graphs
 1.Discipline and Population
 2.Coaches and Discipline
 3.Gender Ratio
